@@ -1,3 +1,5 @@
+CSCI 201 Group Project, Chess with a twist
+
 Cyrus Jia	cjia@usc.edu	30389
 Harshul Mulchandani	hmulchan@usc.edu	30389
 Derek Eom	deom@usc.edu	30389
